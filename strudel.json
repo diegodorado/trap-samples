@@ -1,0 +1,126 @@
+{
+  "808": [
+    "/808/01.wav",
+    "/808/02.wav",
+    "/808/03.wav",
+    "/808/04.wav",
+    "/808/05.wav"
+  ],
+  "bd": [
+    "/bd/01.wav",
+    "/bd/02.wav",
+    "/bd/03.wav",
+    "/bd/09.wav"
+  ],
+  "cp": [
+    "/cp/00.wav",
+    "/cp/01.wav",
+    "/cp/02.wav"
+  ],
+  "down": [
+    "/down/01.wav",
+    "/down/02.wav",
+    "/down/03.wav",
+    "/down/04.wav",
+    "/down/05.wav"
+  ],
+  "drone": [
+    "/drone/01.wav",
+    "/drone/02.wav"
+  ],
+  "fx": [
+    "/fx/01.wav",
+    "/fx/02.wav",
+    "/fx/03.wav"
+  ],
+  "hh": [
+    "/hh/01.wav",
+    "/hh/02.wav",
+    "/hh/03.wav",
+    "/hh/04.wav",
+    "/hh/05.wav",
+    "/hh/06.wav",
+    "/hh/07.wav"
+  ],
+  "impact": [
+    "/impact/01.wav",
+    "/impact/02.wav",
+    "/impact/03.wav",
+    "/impact/04.wav",
+    "/impact/05.wav",
+    "/impact/06.wav",
+    "/impact/07.wav",
+    "/impact/08.wav",
+    "/impact/09.wav",
+    "/impact/10.wav",
+    "/impact/11.wav",
+    "/impact/12.wav"
+  ],
+  "oh": [
+    "/oh/01.wav",
+    "/oh/02.wav",
+    "/oh/03.wav",
+    "/oh/04.wav",
+    "/oh/05.wav",
+    "/oh/06.wav"
+  ],
+  "perc": [
+    "/perc/01.wav",
+    "/perc/02.wav",
+    "/perc/03.wav",
+    "/perc/04.wav",
+    "/perc/05.wav",
+    "/perc/06.wav",
+    "/perc/07.wav",
+    "/perc/08.wav",
+    "/perc/09.wav",
+    "/perc/10.wav",
+    "/perc/11.wav",
+    "/perc/12.wav",
+    "/perc/13.wav",
+    "/perc/14.wav",
+    "/perc/15.wav",
+    "/perc/16.wav",
+    "/perc/17.wav",
+    "/perc/18.wav",
+    "/perc/19.wav",
+    "/perc/20.wav",
+    "/perc/21.wav",
+    "/perc/22.wav",
+    "/perc/23.wav",
+    "/perc/24.wav",
+    "/perc/25.wav",
+    "/perc/26.wav",
+    "/perc/27.wav",
+    "/perc/28.wav",
+    "/perc/29.wav",
+    "/perc/30.wav"
+  ],
+  "riser": [
+    "/riser/01.wav",
+    "/riser/02.wav"
+  ],
+  "sd": [
+    "/sd/01.wav",
+    "/sd/02.wav",
+    "/sd/03.wav",
+    "/sd/04.wav",
+    "/sd/05.wav",
+    "/sd/06.wav",
+    "/sd/07.wav",
+    "/sd/08.wav",
+    "/sd/09.wav",
+    "/sd/10.wav",
+    "/sd/11.wav",
+    "/sd/12.wav",
+    "/sd/13.wav",
+    "/sd/14.wav",
+    "/sd/15.wav",
+    "/sd/16.wav",
+    "/sd/17.wav",
+    "/sd/18.wav",
+    "/sd/19.wav",
+    "/sd/20.wav",
+    "/sd/21.wav"
+  ]
+}
